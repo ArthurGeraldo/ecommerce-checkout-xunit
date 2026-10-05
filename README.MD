@@ -26,3 +26,9 @@ Para validar a suíte de testes unitários, certifique-se de ter o .NET 10 SDK i
 
 ```bash
 dotnet test
+
+## Sobre o Autor
+- Nome: Arthur Geraldo Santos Silva
+- RA: 4251924719
+- Disciplina: Garantia da Qualidade de Software
+- Professor: Daniel Henrique Matos de Paiva
